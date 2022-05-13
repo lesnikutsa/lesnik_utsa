@@ -13,7 +13,10 @@
                 1. [Cosmic Horizon](https://coho.explorers.guru/validator/cohovaloper1kmgyq43cgjud59c3yjd4j3rff5mpg0q2fk0vfa)
                     1. [Aura](https://gitopia.com/gitopia14t5474u9ffxmecdhdrk836q5qpd923ppjvmkpq/lesnik_utsa/tree/master/README.md)
                         1. [Celestia](https://gitopia.com/gitopia14t5474u9ffxmecdhdrk836q5qpd923ppjvmkpq/lesnik_utsa/tree/master/README.md)
-                            1. other
+                            1. [Stafihub](https://testnet-explorer.stafihub.io/stafi-hub-testnet/staking/stafivaloper16gjv57gz83l0j8698kcqevnpjvxxqfg6cz8exw)
+                                1. [Anone](https://test-anone.zenscan.io/validator.php?addr=onevaloper1kx8c7vxh8y3qajuv9e9uk28xamzzu9twjk0ppf)
+                                    1. [Quicksilver](https://testnet.explorer.testnet.run/Quicksilver/staking/quickvaloper1pzd2s28fdezm2kv2a0nx3kdyp05ke4dsu0s25w)
+                                        1. [Stafi](https://testnet-explorer.stafihub.io/stafi-hub-testnet/staking/stafivaloper16gjv57gz83l0j8698kcqevnpjvxxqfg6cz8exw)
 ##  Active testnets other
 1. [Minima](https://gitopia.com/gitopia14t5474u9ffxmecdhdrk836q5qpd923ppjvmkpq/lesnik_utsa/tree/master/README.md)
     1. [Massa](https://gitopia.com/gitopia14t5474u9ffxmecdhdrk836q5qpd923ppjvmkpq/lesnik_utsa/tree/master/README.md)
