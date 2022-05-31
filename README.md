@@ -44,3 +44,4 @@
 1. **Minima** - admin [TG](https://t.me/minima_ru) and [Discord](https://discord.gg/Wj9zF49G46)
     1. **Moonbeam** - [sr. ambassador](https://discord.gg/tfauFdfhdZ)
         1. **Bounty Manager** - [cryptotalk](https://cryptotalk.org/profile/10901-lesnik_utsa/)
+            1. **Crowd Control** - Russian community manager [Discord](https://discord.gg/VFCTcUnSdW)
