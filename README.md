@@ -4,7 +4,8 @@
 1. [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper13xjy7kpegczxayza4q2pcwmd8rewzefvhfvh08)
     1. [Meme](https://ping.pub/meme/staking/memevaloper198vmw08avzey37qnndknq5j4mmw6u2xj4uxecq)
         1. [Provenance](https://www.mintscan.io/provenance/validators/pbvaloper19r822ud3e6j7vv4llk569fxlt3778kw7ynlmve)
-            1. [Game wait](https://gitopia.com/gitopia14t5474u9ffxmecdhdrk836q5qpd923ppjvmkpq/lesnik_utsa/tree/master/README.md)
+            1. [Chronic wait](https://testnet.ping.pub/chronic-token/staking/chronicvaloper136nrlhags2a78f2ue3au72clvnvqhk62kj9krx)
+                1. [Game wait](https://gitopia.com/gitopia14t5474u9ffxmecdhdrk836q5qpd923ppjvmkpq/lesnik_utsa/tree/master/README.md)
 ##  Active testnets Cosmos
 1. [Archway](https://archway.explorers.guru/validator/archwayvaloper1le23uxapyqh00rh30et5ek2kxvfp5j8aaktt6y)
     1. [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1l5tcmuet4a4r6pvazhh78jjuqtnfwmkylwyy55)
@@ -16,7 +17,9 @@
                             1. [Stafihub](https://testnet-explorer.stafihub.io/stafi-hub-testnet/staking/stafivaloper16gjv57gz83l0j8698kcqevnpjvxxqfg6cz8exw)
                                 1. [Anone](https://test-anone.zenscan.io/validator.php?addr=onevaloper1kx8c7vxh8y3qajuv9e9uk28xamzzu9twjk0ppf)
                                     1. [Quicksilver](https://testnet.explorer.testnet.run/Quicksilver/staking/quickvaloper1pzd2s28fdezm2kv2a0nx3kdyp05ke4dsu0s25w)
-                                        1. other
+                                        1. [Sei](https://sei.explorers.guru/validator/cosmosvaloper1qya7gmqt8v00nxu3z2qtvzafnrt8j8tsc3726y)
+                                            1. [DWS](https://dws.explorers.guru/validator/dewebvaloper1f8ar2uh66qej9zkxgp6fpzvcqlr2z0jjlv7e43)
+                                                1. [Clan](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1xlg928e2afsetjcxsxzgpkcw4yl38nv87rhaw7)
 ##  Active testnets other
 1. [Minima](https://gitopia.com/gitopia14t5474u9ffxmecdhdrk836q5qpd923ppjvmkpq/lesnik_utsa/tree/master/README.md)
     1. [Massa](https://gitopia.com/gitopia14t5474u9ffxmecdhdrk836q5qpd923ppjvmkpq/lesnik_utsa/tree/master/README.md)
@@ -27,7 +30,6 @@
                         1. [Subspace](https://gitopia.com/gitopia14t5474u9ffxmecdhdrk836q5qpd923ppjvmkpq/lesnik_utsa/tree/master/README.md)
                             1. [Ironfish](https://gitopia.com/gitopia14t5474u9ffxmecdhdrk836q5qpd923ppjvmkpq/lesnik_utsa/tree/master/README.md)
                                 1. [Aleo](https://gitopia.com/gitopia14t5474u9ffxmecdhdrk836q5qpd923ppjvmkpq/lesnik_utsa/tree/master/README.md)
-                                    1. other
 ##  Finish testnets
 1. [NYM](https://gitopia.com/gitopia14t5474u9ffxmecdhdrk836q5qpd923ppjvmkpq/lesnik_utsa/tree/master/README.md)
     1. [Joystream](https://gitopia.com/gitopia14t5474u9ffxmecdhdrk836q5qpd923ppjvmkpq/lesnik_utsa/tree/master/README.md)
@@ -42,4 +44,4 @@
 1. Minima - admin [TG](https://t.me/minima_ru) and [Discord](https://discord.gg/Wj9zF49G46)
     1. Moonbeam - [sr. ambassador](https://discord.gg/tfauFdfhdZ)
         1. Bounty Manager - [cryptotalk](https://cryptotalk.org/profile/10901-lesnik_utsa/)
-            1. other
+            1. Crowd Control - Russian community manager [Discord](https://discord.gg/VFCTcUnSdW)
