@@ -1,0 +1,54 @@
+# обновляем репозитории
+sudo apt update && sudo apt upgrade -y
+
+# устанавливаем необходимые утилиты
+sudo apt install curl build-essential git wget jq make gcc tmux htop nvme-cli pkg-config libssl-dev libleveldb-dev tar clang bsdmainutils ncdu unzip libleveldb-dev -y
+
+File2Ban - подробнее здесь
+apt install fail2ban -y && \
+cp /etc/fail2ban/jail.conf /etc/fail2ban/jail.local && \
+nano /etc/fail2ban/jail.local
+# раскомментировать и добавить свой IP: ignoreip = 127.0.0.1/8 ::1 <ip>
+systemctl restart fail2ban
+
+# установка docker 
+apt update && \
+apt install apt-transport-https ca-certificates curl software-properties-common -y && \
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add - && \
+add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable" && \
+apt update && \
+apt-cache policy docker-ce && \
+sudo apt install docker-ce -y && \
+docker --version
+
+tmux new-session -s tenderduty
+mkdir tenderduty && cd tenderduty
+docker run --rm ghcr.io/blockpane/tenderduty:latest -example-config >config.yml
+
+# настраиваем конфиг и после запускаем
+nano $HOME/tenderduty/config.yml
+docker run -d --name tenderduty -p "8888:8888" -p "28686:28686" --restart unless-stopped -v $(pwd)/config.yml:/var/lib/tenderduty/config.yml ghcr.io/blockpane/tenderduty:latest
+
+# смотрим логи
+docker logs -f --tail 20 tenderduty
+
+# теперь самое время проверить информацию в браузере
+# узнаем адрес и вставляем в браузер
+echo -e "\033[0;32mhttp://$(wget -qO- eth0.me):8888/\033[0m"
+
+###################
+# полезные команды#
+###################
+
+# остановить контейнер
+docker stop tenderduty
+
+# перезапустить контейнер
+docker restart tenderduty
+
+# посмотреть логи
+docker logs -f --tail 20 tenderduty
+
+# узнать RPC ноды для конфига
+NODE_FOLDER=".genesisd"
+echo -e "\033[0;32mhttp://$(wget -qO- eth0.me)$(grep -A 3 "\[rpc\]" ~/$NODE_FOLDER/config/config.t
