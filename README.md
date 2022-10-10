@@ -10,6 +10,9 @@
                         1. [NYM](https://mixnet.explorers.guru/mixnode/8rxBFUZqQn2jke2e5Ykn6xDVLE95Jp1vUy43gKTjvbVf)
                             1. [L1](https://ping.pub/genesisl1/staking/genesisvaloper1afvvw56w2uq64qmsurawkxdhu9r98e5ue2kthq)
                                 1. [Canto](https://explorer.nodestake.top/canto/staking/cantovaloper1kzp66ds9rgjc6tmfwlps9veqhf9jnrrtpzsztp)
+                                    1. [Stride](https://mainnet.manticore.team/stride/staking/stridevaloper1fzhv743ve4nw99lqwr9f8x4vkngp7v5ma3t84q)
+                                        1. [Teritori](https://explorer.stavr.tech/teritori-main/staking/torivaloper1kunzrdg6u8gql4faj33lstghhqdtp59e0xgggy)
+                                            1. [Lambda](https://explorer.nodestake.top/lambda/staking/lambvaloper1qhx3ftwsu8a0mdvwkxjz2at92g9qpaapar95px)
 ##  Active testnets Cosmos
 1. [Archway](https://archway.explorers.guru/validator/archwayvaloper1le23uxapyqh00rh30et5ek2kxvfp5j8aaktt6y)
     1. [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1l5tcmuet4a4r6pvazhh78jjuqtnfwmkylwyy55)
