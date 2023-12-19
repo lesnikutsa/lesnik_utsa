@@ -2,7 +2,7 @@
 https://game.autonity.org/round-4/on-chain-tasks/transact-flow/
 
 Aim for at least 1000 cross-wallet ATN transactions per epoch. In this case, the amount received must be at least 180 ATN per epoch. Since 1 epoch is half an hour, we need to make more than 1000 transactions in half an hour
-Since changing the “nonce” has a time delay, with normal sending of transactions from the account we can reach a threshold of approximately 950 transactions in half an hour. Therefore, in our script we will automatically change this parameter
+Since changing the “nonce” has a time delay, with normal sending of transactions from the account we can reach a threshold of approximately 950 transactions in half an hour. Therefore, in our script we will automatically change this parameter, thanks to which we can achieve approximately 1700 transactions per epoch
 
 ## Instructions:
 To complete this task, make sure that you have installed the autonity node, the ```aut``` tool and replenished your wallet balance with the required number of coins
@@ -33,7 +33,7 @@ done
 # RU
 
 Стремитесь получить не менее 1000 транзакций ATN между кошельками за эпоху. При этом полученная сумма должна составлять не менее 180 ATN за эпоху. Так как 1 эпоха составляет пол часа, то нам необходимо сделать больше 1000 транзакций за пол часа
-Так как изменение "nonce" имее временную задержку, то при обычной отправке транзакций с аккаунта мы можем достичь порога примерно 950 транзакций за пол часа. Поэтому в нашем скрипте мы будем автоматически изенять данный параметр
+Так как изменение "nonce" имее временную задержку, то при обычной отправке транзакций с аккаунта мы можем достичь порога примерно 950 транзакций за пол часа. Поэтому в нашем скрипте мы будем автоматически изенять данный параметр, благодаря чему мы можем достигать примерно 1700 транзакций за эпоху
 
 ## Инструкции:
 Для выполнения данной задачи убедитесь, что Вы установили ноду autonity, инструмент aut и пополнили баланс своего кошелька необходимым количеством монет
