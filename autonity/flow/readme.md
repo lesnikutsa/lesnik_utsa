@@ -27,6 +27,7 @@ done
 - When the script is running, it will not be possible to send regular transactions. Pause it temporarily before sending a regular transaction
 - Sometimes there may be errors in the node logs due to the fact that the transaction does not have time to send. You can play around with the value of ```sleep```
 - In some cases, there was a noticeable problem with a lack of gas for transactions. In this case, add the ```-F 0.000001``` flag to the send command
+- Monitor the status of your server. When the script runs, the load on the server increases, which can cause you to get jailed
 
 ---
 
@@ -59,5 +60,6 @@ done
 - При работе скрипта не получится отправлять обычные транзакции. Временно приостановите его работу перед отправкой обычной транзакции
 - Иногда в логах ноды могут быть ошибки из-за того, что транзакция не успевает отправиться. Вы можете поиграться со значением ```sleep```
 - В некоторых случаях была заметна проблема с нехваткой газа для транзакций. В этом случае добавьте флаг ```-F 0.000001``` в команду отправки
+- Следите за состоянием своего сервера. При работе скрипта увеличивается нагрузка на сервер, что может вызвать попадание в jail 
 
 Русскоязычная группа по autonity - https://t.me/autonity_ru
