@@ -16,7 +16,8 @@ Use the script below to perform transactions, after replacing the values below w
 
 ```bash
 #!/bin/bash
-for ((c=1;c<=999999999;c++))
+tx=`aut account info | \jq '.[0].tx_count | tonumber'`
+for ((c=$tx;c<=999999999;c++))
 do
 
 sleep 0.1; aut tx make --to WALLET_TO_RECEIVE --value 1 -n "$c" | aut tx sign -p 'PASSWORD' - | aut tx send - >> /root/t1.log
@@ -48,7 +49,8 @@ done
 
 ```bash
 #!/bin/bash
-for ((c=1;c<=999999999;c++))
+tx=`aut account info | \jq '.[0].tx_count | tonumber'`
+for ((c=$tx;c<=999999999;c++))
 do
 
 sleep 0.1; aut tx make --to WALLET_TO_RECEIVE --value 1 -n "$c" | aut tx sign -p 'PASSWORD' - | aut tx send - >> /root/t1.log
